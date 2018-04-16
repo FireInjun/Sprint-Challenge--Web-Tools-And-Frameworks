@@ -1,10 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\img",
-    "\\js",
     "\\less"
   ],
-  "SelectedNode": "\\index.html",
-  "PreviewInSolutionExplorer": false
+  "SelectedNode": "\\less\\index.less",
+  "PreviewInSolutionExplorer": true
 }

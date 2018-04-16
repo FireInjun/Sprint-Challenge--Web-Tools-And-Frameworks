@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-Sprint-Challenge--Web-Tools-And-Frameworks",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
